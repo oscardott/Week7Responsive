@@ -1,0 +1,98 @@
+        * {
+        font-family: avenir-lt-pro, sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        color: #fbf6ec;
+        box-sizing: border-box;}
+        
+        header {
+        background-color: #ff7e23;
+        }
+
+        .home {
+        color: #fbf6ec; 
+        font-family: avenir-lt-pro, sans-serif;
+        font-weight: 800;
+        font-style: normal; 
+        font-size: 36px
+        }
+
+        li {
+        font-size: 24px
+        }
+        
+        .pri {
+        color:#ff7e23    
+        }
+
+        .sec {
+        color:#ffb061
+        }
+
+        .pribg {
+        background-color: #ff7e23;
+        }
+
+        .secbg {
+        background-color: #ffb061;
+        }
+
+        header h1 {
+        color: #fbf6ec; 
+        font-family: miller-banner, serif;
+        font-weight: 800;
+        font-style: normal;
+        }
+
+        h1{
+        color: #ffb061;
+        font-family: miller-banner, serif;
+        font-weight: 800;
+        font-style: normal;
+        font-size: 80px;
+        }
+
+        h4{
+        font-family: avenir-lt-pro, sans-serif;
+        font-weight: 800;
+        font-style: normal;
+        }
+
+        h6 {
+        font-family: avenir-lt-pro, sans-serif;
+        font-weight: 200;
+        font-style: normal;
+        color: #ffb061
+        }
+
+        h2{
+        color:#ff7e23;
+        font-family: avenir-lt-pro, sans-serif;
+        font-weight: 800;
+        font-style: normal;
+        }
+
+        article h4 {
+        text-align: center;}
+
+        section h3 {
+            font-weight: 12
+        }
+
+        article img {
+        max-width: 100%;
+        height:auto;}
+
+        nav, #feature, footer {
+        margin: 1%; }
+
+        nav li {
+        display: inline;
+		padding: 0.5em;
+        color: #fbf6ec;}
+
+        .row-color-1 {
+            background-color:#151d26;
+        }
+
+        body {background-color: #151d26;}
